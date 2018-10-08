@@ -1,5 +1,6 @@
 # Bootloader
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/GEEKOFIA/bootloader/blob/master/LICENSE)
+
 The beginning of a customised OS from ground/source or whatever you may call.
 
 ## File Info
@@ -9,6 +10,12 @@ The beginning of a customised OS from ground/source or whatever you may call.
 ## Test
 
 - Run `build.bat` to automatically assemble `bin` file and run with `qemu`.
+
+## Images
+
+![Image-1](./images/screenshot-00.png)
+
+![Image-2](./images/screenshot-01.png)
 
 ## Tools Used
 
